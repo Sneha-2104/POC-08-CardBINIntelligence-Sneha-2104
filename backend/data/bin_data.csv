@@ -1,0 +1,186 @@
+bin_id,bin,issuer,card_type,country,is_commercial,is_prepaid,decline_rate,avg_transaction,top_decline_reason
+1,414700,Chase,Mastercard,AU,True,False,0.094,338.53,Card blocked
+2,414701,Chase,Mastercard,MX,False,False,0.025,326.6,Merchant restricted
+3,414702,Chase,Visa,MX,False,True,0.07,385.49,Invalid CVV
+4,414703,Chase,Visa,IN,True,True,0.031,107.52,Invalid card number
+5,414704,Chase,Discover,MX,True,True,0.134,40.46,Transaction limit exceeded
+6,414720,Chase,Visa,FR,False,True,0.025,429.18,Card not activated
+7,414721,Chase,Mastercard,AU,False,True,0.141,294.46,Merchant restricted
+8,414722,Chase,Mastercard,US,False,False,0.016,407.97,Transaction limit exceeded
+9,414723,Chase,Visa,DE,False,False,0.082,492.11,Card expired
+10,414724,Chase,Discover,FR,True,True,0.108,24.05,Invalid CVV
+11,414740,Chase,Discover,IN,False,False,0.048,159.77,Card blocked
+12,414741,Chase,Visa,US,True,True,0.108,371.51,Insufficient funds
+13,414742,Chase,Amex,AU,False,False,0.02,366.9,Card expired
+14,414743,Chase,Discover,UK,False,False,0.068,331.99,Card not activated
+15,414744,Chase,Discover,CA,True,False,0.093,457.87,Card not activated
+16,414760,Chase,Mastercard,DE,True,True,0.137,193.43,Insufficient funds
+17,414761,Chase,Visa,BR,False,False,0.018,58.63,Transaction limit exceeded
+18,414762,Chase,Amex,UK,False,True,0.075,250.86,Card expired
+19,414763,Chase,Discover,DE,True,True,0.103,389.15,Card blocked
+20,414764,Chase,Discover,US,True,True,0.054,479.5,Suspected fraud
+21,410000,Bank of America,Visa,BR,False,True,0.149,271.28,Transaction limit exceeded
+22,410001,Bank of America,Amex,AU,True,False,0.098,329.57,Insufficient funds
+23,410002,Bank of America,Visa,IN,False,False,0.142,162.73,Invalid card number
+24,410003,Bank of America,Discover,MX,True,True,0.1,90.31,Card not activated
+25,410004,Bank of America,Visa,US,False,True,0.059,441.23,Invalid CVV
+26,410020,Bank of America,Mastercard,FR,False,False,0.086,181.54,Card not activated
+27,410021,Bank of America,Visa,UK,False,True,0.145,320.26,Card not activated
+28,410022,Bank of America,Visa,CA,True,False,0.138,189.14,Card not activated
+29,410023,Bank of America,Visa,JP,True,True,0.035,492.51,Insufficient funds
+30,410024,Bank of America,Mastercard,BR,True,False,0.138,36.8,Invalid CVV
+31,410040,Bank of America,Discover,AU,True,True,0.037,302.57,Card not activated
+32,410041,Bank of America,Visa,DE,True,True,0.125,362.39,Invalid CVV
+33,410042,Bank of America,Mastercard,IN,False,False,0.043,438.93,Invalid card number
+34,410043,Bank of America,Mastercard,IN,False,False,0.092,215.62,Invalid card number
+35,410044,Bank of America,Amex,UK,True,True,0.115,442.65,Invalid card number
+36,410060,Bank of America,Amex,IN,True,True,0.072,64.45,Invalid card number
+37,410061,Bank of America,Mastercard,BR,True,True,0.047,210.21,Invalid card number
+38,410062,Bank of America,Amex,FR,False,False,0.02,452.92,Merchant restricted
+39,410063,Bank of America,Amex,CA,False,False,0.033,291.97,Card blocked
+40,410064,Bank of America,Visa,DE,False,False,0.04,180.35,Card expired
+41,411800,Wells Fargo,Discover,MX,True,True,0.025,36.64,Suspected fraud
+42,411801,Wells Fargo,Discover,MX,True,True,0.053,348.88,Transaction limit exceeded
+43,411802,Wells Fargo,Discover,CA,True,True,0.043,248.97,Transaction limit exceeded
+44,411803,Wells Fargo,Mastercard,DE,True,False,0.101,207.66,Invalid card number
+45,411804,Wells Fargo,Discover,CA,True,False,0.149,400.82,Merchant restricted
+46,411820,Wells Fargo,Amex,AU,True,True,0.113,15.11,Card expired
+47,411821,Wells Fargo,Amex,BR,False,True,0.067,184.24,Suspected fraud
+48,411822,Wells Fargo,Discover,DE,False,False,0.149,392.44,Card expired
+49,411823,Wells Fargo,Mastercard,AU,True,False,0.122,278.13,Merchant restricted
+50,411824,Wells Fargo,Amex,IN,True,True,0.138,472.4,Card blocked
+51,411840,Wells Fargo,Discover,US,True,False,0.015,411.43,Merchant restricted
+52,411841,Wells Fargo,Amex,MX,False,False,0.085,224.85,Suspected fraud
+53,411842,Wells Fargo,Amex,BR,True,True,0.044,257.76,Card not activated
+54,411843,Wells Fargo,Mastercard,BR,False,True,0.019,374.91,Suspected fraud
+55,411844,Wells Fargo,Visa,DE,False,False,0.124,411.82,Card not activated
+56,411860,Wells Fargo,Amex,US,False,True,0.139,107.35,Insufficient funds
+57,411861,Wells Fargo,Mastercard,BR,True,False,0.026,314.57,Transaction limit exceeded
+58,411862,Wells Fargo,Mastercard,MX,False,False,0.101,23.76,Transaction limit exceeded
+59,411863,Wells Fargo,Discover,IN,False,True,0.018,79.37,Transaction limit exceeded
+60,411864,Wells Fargo,Discover,IN,False,True,0.139,149.66,Suspected fraud
+61,412800,Citibank,Amex,UK,True,False,0.098,49.47,Merchant restricted
+62,412801,Citibank,Amex,JP,True,True,0.069,85.18,Suspected fraud
+63,412802,Citibank,Discover,JP,False,False,0.064,261.55,Transaction limit exceeded
+64,412803,Citibank,Discover,UK,True,False,0.043,352.46,Invalid card number
+65,412804,Citibank,Visa,UK,True,False,0.085,264.02,Insufficient funds
+66,412820,Citibank,Mastercard,AU,False,False,0.039,361.95,Insufficient funds
+67,412821,Citibank,Mastercard,AU,False,True,0.057,335.32,Insufficient funds
+68,412822,Citibank,Visa,AU,False,True,0.11,238.24,Transaction limit exceeded
+69,412823,Citibank,Mastercard,BR,False,True,0.022,46.17,Invalid CVV
+70,412824,Citibank,Discover,FR,False,False,0.063,152.11,Invalid card number
+71,412840,Citibank,Mastercard,AU,True,False,0.032,292.77,Merchant restricted
+72,412841,Citibank,Discover,UK,True,True,0.094,428.64,Invalid CVV
+73,412842,Citibank,Mastercard,JP,False,False,0.031,395.07,Card expired
+74,412843,Citibank,Visa,MX,False,True,0.137,77.68,Card blocked
+75,412844,Citibank,Amex,UK,True,True,0.041,244.68,Merchant restricted
+76,412860,Citibank,Amex,IN,True,True,0.041,331.96,Card blocked
+77,412861,Citibank,Mastercard,FR,True,False,0.098,75.93,Transaction limit exceeded
+78,412862,Citibank,Amex,AU,True,True,0.075,451.73,Card expired
+79,412863,Citibank,Discover,US,False,False,0.094,199.93,Card not activated
+80,412864,Citibank,Visa,UK,True,False,0.098,185.43,Transaction limit exceeded
+81,414000,Capital One,Amex,MX,True,False,0.147,122.98,Suspected fraud
+82,414001,Capital One,Visa,US,True,False,0.079,411.37,Insufficient funds
+83,414002,Capital One,Discover,IN,True,False,0.05,188.74,Transaction limit exceeded
+84,414003,Capital One,Mastercard,IN,False,True,0.133,320.94,Card expired
+85,414004,Capital One,Mastercard,US,True,True,0.043,67.63,Transaction limit exceeded
+86,414020,Capital One,Mastercard,US,False,True,0.114,244.19,Insufficient funds
+87,414021,Capital One,Amex,UK,True,False,0.032,396.32,Card blocked
+88,414022,Capital One,Discover,MX,False,False,0.102,76.23,Card blocked
+89,414023,Capital One,Mastercard,MX,True,False,0.137,329.48,Suspected fraud
+90,414024,Capital One,Mastercard,UK,False,False,0.148,192.49,Invalid CVV
+91,414040,Capital One,Visa,FR,True,True,0.127,249.81,Card expired
+92,414041,Capital One,Mastercard,DE,False,False,0.029,82.36,Invalid card number
+93,414042,Capital One,Mastercard,JP,False,False,0.012,194.26,Invalid card number
+94,414043,Capital One,Mastercard,DE,False,False,0.109,475.27,Transaction limit exceeded
+95,414044,Capital One,Discover,AU,True,False,0.092,238.61,Card expired
+96,414060,Capital One,Mastercard,FR,False,False,0.054,36.99,Invalid CVV
+97,414061,Capital One,Visa,AU,False,False,0.121,127.84,Invalid card number
+98,414062,Capital One,Discover,DE,False,True,0.129,398.12,Insufficient funds
+99,414063,Capital One,Mastercard,AU,False,True,0.061,409.07,Merchant restricted
+100,414064,Capital One,Visa,UK,False,True,0.012,446.2,Transaction limit exceeded
+101,340000,American Express,Mastercard,DE,False,True,0.103,103.66,Invalid CVV
+102,340001,American Express,Discover,JP,False,True,0.013,34.72,Invalid card number
+103,340002,American Express,Mastercard,IN,True,False,0.128,478.04,Suspected fraud
+104,340003,American Express,Discover,UK,True,False,0.033,447.46,Suspected fraud
+105,340004,American Express,Discover,BR,True,False,0.107,481.01,Invalid card number
+106,370000,American Express,Discover,CA,True,False,0.133,466.18,Merchant restricted
+107,370001,American Express,Discover,UK,False,True,0.123,408.0,Merchant restricted
+108,370002,American Express,Discover,CA,False,True,0.138,72.25,Suspected fraud
+109,370003,American Express,Amex,JP,False,False,0.075,207.06,Suspected fraud
+110,370004,American Express,Visa,UK,True,False,0.044,401.67,Suspected fraud
+111,378000,American Express,Visa,BR,True,True,0.13,107.34,Card not activated
+112,378001,American Express,Mastercard,IN,False,False,0.019,93.03,Invalid card number
+113,378002,American Express,Amex,US,False,True,0.139,477.8,Invalid CVV
+114,378003,American Express,Mastercard,DE,True,True,0.057,293.76,Card blocked
+115,378004,American Express,Discover,IN,True,False,0.057,56.55,Insufficient funds
+116,601100,Discover,Amex,CA,False,True,0.087,172.42,Card expired
+117,601101,Discover,Amex,UK,False,False,0.04,386.94,Invalid card number
+118,601102,Discover,Visa,BR,True,False,0.123,40.3,Transaction limit exceeded
+119,601103,Discover,Mastercard,US,True,False,0.064,117.45,Merchant restricted
+120,601104,Discover,Mastercard,FR,False,False,0.145,224.28,Invalid CVV
+121,601120,Discover,Amex,AU,False,False,0.037,423.06,Card blocked
+122,601121,Discover,Visa,FR,True,True,0.066,170.14,Invalid card number
+123,601122,Discover,Visa,AU,False,True,0.037,464.28,Suspected fraud
+124,601123,Discover,Mastercard,AU,False,True,0.135,253.25,Card blocked
+125,601124,Discover,Visa,MX,True,False,0.016,107.79,Card expired
+126,601140,Discover,Amex,AU,False,True,0.122,65.65,Merchant restricted
+127,601141,Discover,Mastercard,BR,False,False,0.046,19.16,Card expired
+128,601142,Discover,Amex,MX,False,True,0.021,83.83,Merchant restricted
+129,601143,Discover,Mastercard,BR,False,True,0.145,42.18,Insufficient funds
+130,601144,Discover,Amex,CA,False,True,0.122,455.62,Invalid CVV
+131,440000,Visa,Discover,US,False,False,0.065,55.62,Card blocked
+132,440001,Visa,Mastercard,CA,False,False,0.125,487.03,Card not activated
+133,440002,Visa,Visa,FR,True,True,0.067,334.71,Card expired
+134,440003,Visa,Mastercard,UK,False,True,0.067,113.41,Insufficient funds
+135,440004,Visa,Discover,MX,True,True,0.08,274.46,Suspected fraud
+136,450000,Visa,Amex,UK,True,True,0.041,132.32,Suspected fraud
+137,450001,Visa,Amex,UK,True,True,0.111,65.93,Invalid card number
+138,450002,Visa,Mastercard,JP,False,True,0.102,261.81,Card not activated
+139,450003,Visa,Visa,US,False,False,0.14,483.05,Merchant restricted
+140,450004,Visa,Visa,FR,True,True,0.142,64.99,Invalid CVV
+141,460000,Visa,Amex,IN,True,True,0.058,182.16,Card blocked
+142,460001,Visa,Discover,IN,False,False,0.072,19.83,Insufficient funds
+143,460002,Visa,Visa,CA,True,False,0.045,499.82,Invalid CVV
+144,460003,Visa,Visa,US,False,True,0.06,49.74,Suspected fraud
+145,460004,Visa,Visa,MX,False,True,0.066,454.31,Suspected fraud
+146,470000,Visa,Amex,AU,True,True,0.045,469.12,Card expired
+147,470001,Visa,Mastercard,IN,True,False,0.03,197.73,Merchant restricted
+148,470002,Visa,Discover,AU,True,False,0.069,242.06,Invalid card number
+149,470003,Visa,Visa,US,False,False,0.038,82.96,Merchant restricted
+150,470004,Visa,Amex,UK,False,True,0.031,399.75,Invalid CVV
+151,510000,Mastercard,Visa,US,True,False,0.051,331.42,Card not activated
+152,510001,Mastercard,Mastercard,JP,False,False,0.065,266.5,Invalid CVV
+153,510002,Mastercard,Discover,US,False,True,0.11,168.49,Card blocked
+154,510003,Mastercard,Visa,JP,False,True,0.078,93.92,Suspected fraud
+155,510004,Mastercard,Visa,JP,True,False,0.049,161.01,Merchant restricted
+156,520000,Mastercard,Amex,FR,True,True,0.037,114.97,Merchant restricted
+157,520001,Mastercard,Discover,IN,True,False,0.088,72.4,Suspected fraud
+158,520002,Mastercard,Visa,BR,False,False,0.098,311.5,Invalid card number
+159,520003,Mastercard,Visa,AU,True,False,0.122,447.8,Card not activated
+160,520004,Mastercard,Visa,BR,False,True,0.042,439.06,Card expired
+161,530000,Mastercard,Visa,US,True,False,0.043,308.85,Transaction limit exceeded
+162,530001,Mastercard,Visa,IN,True,True,0.019,64.55,Card blocked
+163,530002,Mastercard,Mastercard,UK,False,False,0.024,267.5,Insufficient funds
+164,530003,Mastercard,Discover,CA,True,False,0.016,280.66,Transaction limit exceeded
+165,530004,Mastercard,Visa,BR,False,False,0.136,342.44,Card blocked
+166,540000,Mastercard,Visa,UK,True,True,0.06,276.93,Invalid CVV
+167,540001,Mastercard,Mastercard,US,False,False,0.072,318.88,Invalid card number
+168,540002,Mastercard,Amex,MX,False,False,0.012,372.68,Suspected fraud
+169,540003,Mastercard,Visa,BR,True,True,0.058,472.05,Card blocked
+170,540004,Mastercard,Visa,MX,False,False,0.053,73.79,Card not activated
+171,413000,HSBC,Discover,DE,False,False,0.057,99.7,Invalid CVV
+172,413001,HSBC,Mastercard,JP,False,True,0.108,491.7,Suspected fraud
+173,413002,HSBC,Discover,BR,True,False,0.123,125.73,Invalid card number
+174,413003,HSBC,Mastercard,BR,True,True,0.033,89.83,Insufficient funds
+175,413004,HSBC,Mastercard,FR,True,False,0.026,448.81,Suspected fraud
+176,413020,HSBC,Visa,BR,False,False,0.111,289.84,Insufficient funds
+177,413021,HSBC,Mastercard,BR,False,False,0.089,328.97,Invalid CVV
+178,413022,HSBC,Discover,JP,False,False,0.11,399.09,Card blocked
+179,413023,HSBC,Discover,FR,False,True,0.147,432.75,Invalid CVV
+180,413024,HSBC,Amex,MX,True,False,0.104,23.51,Card not activated
+181,413040,HSBC,Mastercard,US,True,True,0.094,337.01,Insufficient funds
+182,413041,HSBC,Amex,BR,True,True,0.085,453.28,Invalid card number
+183,413042,HSBC,Mastercard,BR,False,True,0.091,66.19,Invalid CVV
+184,413043,HSBC,Discover,CA,False,False,0.149,388.6,Merchant restricted
+185,413044,HSBC,Discover,BR,False,True,0.133,57.57,Invalid card number
